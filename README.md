@@ -1,6 +1,6 @@
 # Description
 
-This project implements a conversational chatbot powered by generative AI technology, specifically the Gemini API. It's designed for Android Studio Hedgehog and leverages a secret Gradle plugin to securely store API keys.
+This project implements a conversational chatbot powered by generative AI technology, specifically the Gemini API. It's designed in Android Studio Hedgehog and leverages a secret Gradle plugin to securely store API keys.
 
 # Features
 
@@ -28,4 +28,4 @@ Once the app launches on your device, interact with the chatbot through the prov
 
 # Contributing
 
-We welcome contributions to this project! Please create a pull request on GitHub with your changes and a clear explanation of what you've modified.
+contributions are welcome to this project! Please create a pull request on GitHub with your changes and a clear explanation of what you've modified.

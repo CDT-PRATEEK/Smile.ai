@@ -1,3 +1,7 @@
+
+https://github.com/CDT-PRATEEK/Smile.ai/assets/111572443/035f7027-7095-48e2-88db-6cb350443197
+
+
 # Description
 
 This project implements a conversational chatbot powered by generative AI technology, specifically utilizing the Gemini API. It's developed in Android Studio Hedgehog and incorporates a secret Gradle plugin for secure API key management.

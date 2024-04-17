@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIChatAPP</string>
+    <string name="send_prompt">Send prompt</string>
+    <string name="type_a_prompt">Type a prompt</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="picked_image">picked image</string>
+    <string name="appname">Smile.ai</string>
+    <string name="madeby">By- Prateek Sinha</string>
+</resources>
